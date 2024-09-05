@@ -1,8 +1,8 @@
 ## Parametric LSTM (pLSTM) - a new variant!
-# Hamid R. Karbasian and Wim M. van Rees
-# vanRees Lab
-# Department of Mechanical Engineering
-#Massachusetts Institute of Technology
+Hamid R. Karbasian and Wim M. van Rees
+vanRees Lab
+Department of Mechanical Engineering
+Massachusetts Institute of Technology
 
 # lstmNet
 LSTM network to predict unsteady flow structures.
